@@ -8,4 +8,4 @@ The script that draws GenU cards inside OpenClaw chat widgets. Load a pinned ver
 <script src="https://cdn.jsdelivr.net/gh/josephux/genu-renderer@1.1.0/genu.min.js" integrity="sha384-rK81RB2JULBqdDaPacKJb9UdChCX7SdGhUk3iP9zSCZvXDwMWoI36RRAmU7tS9k5" crossorigin="anonymous"></script>
 ```
 
-© Joseph Huang. All rights reserved. Icons are from [Lucide](https://lucide.dev), under the ISC License (see `LICENSE-lucide`).
+MIT, see `LICENSE`. Source: [josephux/genu](https://github.com/josephux/genu), in `renderer/`. Icons are from [Lucide](https://lucide.dev), under the ISC License (see `LICENSE-lucide`).
